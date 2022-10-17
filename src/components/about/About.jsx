@@ -4,7 +4,7 @@ import aboutme from "../../assests/aboutme.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscNewFolder } from "react-icons/vsc";
-import p2 from "../../assests/krushna_informal.jpeg";
+import p2 from "../../assests/manishformal.jpeg";
 const About = () => {
   return (
     <section id="about">
@@ -36,7 +36,7 @@ const About = () => {
             <article className="about__card">
               <VscNewFolder className="about__icon" />
               <a
-                href="https://drive.google.com/drive/folders/1dNAxDBIzx0iNqo-XF2T5oe5bjQrPKnXz?usp=sharing"
+                href="https://drive.google.com/file/d/12nRiQ5sYGAi889IkJo5WhyCb5-zSus43/view"
                 target="_blank"
               >
                 <h5 className="under">Certificates</h5>
@@ -45,9 +45,9 @@ const About = () => {
           </div>
 
           <p>
-            Hello, I am Krushna Pulate and I am a web developer currently
+            Hello, I am Manish Bhamare and I am a web developer currently
             pursuing my B.E. in Computer Engineering at Pune Institute of
-            Computer Technology,Pune. I live in Durgapur. I am a passionate
+            Computer Technology,Pune. I live in Dhule. I am a passionate
             coder who desires to learn, experiment, and explore technical,
             analytical, and problem-solving skills and has an interest in
             solving various algorithm problems. I have a keen interest in Data
