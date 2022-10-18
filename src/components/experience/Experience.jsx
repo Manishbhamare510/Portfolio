@@ -30,16 +30,8 @@ const experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>JavaScript</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
                 <h4>React JS</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
 
@@ -55,14 +47,6 @@ const experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>MySQL</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Firebase</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -88,14 +72,6 @@ const experience = () => {
                 <small className="text-light">Basics</small>
               </div>
             </article>
-
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>JavaScript</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
           </div>
         </div>
         {/* Tools */}
@@ -114,7 +90,7 @@ const experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>GitHub</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
 

@@ -30,7 +30,7 @@ const Contact = () => {
             <HiOutlineMail className='contact_option-icon'/>
             <h4>Email</h4>
             <h5>mdbhamare2002@gmail.com</h5>
-            <a href="mailto:krushnapulate3082@gmail.com" target='_blank'>Send a message</a>
+            <a href="mailto:mdbhamare2002@gmail.com" target='_blank'>Send a message</a>
           </article>
           <article className='contact_option'>
             <SiMessenger className='contact_option-icon'/>
